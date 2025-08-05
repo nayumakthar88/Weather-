@@ -15,7 +15,7 @@ A beautiful, responsive weather application that provides real-time weather info
 
 ##  Live Demo
 
-Visit the live website: [Weather App]([(https://weather-e7ee.vercel.app/)])
+Visit the live website: [(https://weather-e7ee.vercel.app/)]
 
 ##  Technologies Used
 
