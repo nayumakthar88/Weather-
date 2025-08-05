@@ -1,8 +1,8 @@
-# 🌤️ Weather App
+#  Weather App
 
 A beautiful, responsive weather application that provides real-time weather information for any location worldwide. Built with vanilla HTML, CSS, and JavaScript.
 
-## ✨ Features
+##  Features
 
 - **Real-time Weather Data**: Get current temperature, humidity, wind speed, and more
 - **Dynamic Backgrounds**: Background changes based on weather conditions
@@ -13,22 +13,22 @@ A beautiful, responsive weather application that provides real-time weather info
 - **Persistent Settings**: Remembers your last location and preferred units
 - **Beautiful UI**: Modern, clean interface with smooth animations
 
-## 🚀 Live Demo
+##  Live Demo
 
 Visit the live website: [Weather App](https://your-username.github.io/Weather/)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (with animations and gradients)
 - Vanilla JavaScript
 - OpenWeatherMap API
 
-## 📱 Screenshots
+##  Screenshots
 
 ![Weather App Screenshot](WhatsApp%20Image%202025-07-19%20at%2011.07.06_d4e74a09.jpg)
 
-## 🚀 Deployment on GitHub Pages
+##  Deployment on GitHub Pages
 
 ### Prerequisites
 - A GitHub account
@@ -78,7 +78,7 @@ Visit the live website: [Weather App](https://your-username.github.io/Weather/)
    - Wait a few minutes for deployment
    - Your website will be available at: `https://your-username.github.io/Weather/`
 
-## 🔧 Local Development
+##  Local Development
 
 1. **Clone the repository**
    ```bash
@@ -101,7 +101,7 @@ Visit the live website: [Weather App](https://your-username.github.io/Weather/)
    - Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)
    - Replace the API key in `index.html` (line with `const API_KEY = '...'`)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Weather/
@@ -113,7 +113,7 @@ Weather/
 └── WhatsApp Image 2025-07-19 at 11.07.06_d4e74a09.jpg  # Screenshot
 ```
 
-## 🌟 Features in Detail
+##  Features in Detail
 
 ### Weather Information Displayed
 - Current temperature
@@ -138,14 +138,14 @@ Weather/
 - Touch-friendly interface
 - Fast loading times
 
-## 🔒 API Usage
+##  API Usage
 
 This app uses the OpenWeatherMap API:
 - **Free Tier**: 1,000 calls per day
 - **Rate Limit**: 60 calls per minute
 - **Data**: Current weather data for any location
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -153,22 +153,18 @@ This app uses the OpenWeatherMap API:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.unknown) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather API
 - Weather icons from OpenWeatherMap
 - Community contributors and feedback
 
-## 📞 Support
+##  Support
 
 If you have any questions or need help with deployment, feel free to:
 - Open an issue on GitHub
 - Contact the maintainer
-
----
-
-**Made with ❤️ for weather enthusiasts everywhere!**
