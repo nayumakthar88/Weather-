@@ -24,16 +24,6 @@ Visit the live website: [Weather App]((https://weather-e7ee.vercel.app/))
 - Vanilla JavaScript
 - OpenWeatherMap API
 
-##  Screenshots
-
-![Weather App Screenshot](WhatsApp%20Image%202025-07-19%20at%2011.07.06_d4e74a09.jpg)
-
-##  Deployment on GitHub Pages
-
-### Prerequisites
-- A GitHub account
-- Git installed on your computer
-
 ##  Local Development
 
 1. **Clone the repository**
