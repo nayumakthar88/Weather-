@@ -15,7 +15,7 @@ A beautiful, responsive weather application that provides real-time weather info
 
 ##  Live Demo
 
-Visit the live website: [Weather App](https://your-username.github.io/Weather/)
+Visit the live website: [Weather App]((https://weather-e7ee.vercel.app/))
 
 ##  Technologies Used
 
@@ -33,50 +33,6 @@ Visit the live website: [Weather App](https://your-username.github.io/Weather/)
 ### Prerequisites
 - A GitHub account
 - Git installed on your computer
-
-### Steps to Deploy
-
-1. **Create a GitHub Repository**
-   ```bash
-   # Initialize git repository (if not already done)
-   git init
-   
-   # Add all files
-   git add .
-   
-   # Commit changes
-   git commit -m "Initial commit: Weather App"
-   ```
-
-2. **Create Repository on GitHub**
-   - Go to [GitHub](https://github.com)
-   - Click "New repository"
-   - Name it `Weather` (or your preferred name)
-   - Make it public
-   - Don't initialize with README (since you already have one)
-
-3. **Push to GitHub**
-   ```bash
-   # Add remote repository
-   git remote add origin https://github.com/your-username/Weather.git
-   
-   # Push to GitHub
-   git branch -M main
-   git push -u origin main
-   ```
-
-4. **Enable GitHub Pages**
-   - Go to your repository on GitHub
-   - Click "Settings" tab
-   - Scroll down to "Pages" section
-   - Under "Source", select "Deploy from a branch"
-   - Choose "main" branch
-   - Select "/ (root)" folder
-   - Click "Save"
-
-5. **Your Website is Live!**
-   - Wait a few minutes for deployment
-   - Your website will be available at: `https://your-username.github.io/Weather/`
 
 ##  Local Development
 
